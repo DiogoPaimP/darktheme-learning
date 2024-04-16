@@ -16,7 +16,7 @@ body{
     transition: background 0.2s linear;
 }
 
-body.dark{
+body.dark {
     background-color: #232c35;
 }
 
